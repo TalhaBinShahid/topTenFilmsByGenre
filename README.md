@@ -44,16 +44,6 @@ A comprehensive dashboard was created using Tableau Desktop to provide a visual 
 2. Open the Tableau dashboard file located in the `Top 10 films by genre` folder.
 3. Explore the visualizations and interactive elements to gain insights from the data.
 
-## Getting Started
-
-To get started with this project, you can:
-1. Clone the repository to your local machine:
-    ```bash
-    git clone https://github.com/yourusername/your-repository.git
-    ```
-2. Open the cleaned dataset in Excel or the Tableau dashboard to explore the data.
-
-
 ## Acknowledgements
 
 - Data sourced from Kaggle.
